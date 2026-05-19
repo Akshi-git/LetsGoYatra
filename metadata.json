@@ -1,0 +1,6 @@
+{
+  "name": "Lets Go Yatra - Premium Travel Agency",
+  "description": "Luxurious and personalized travel experiences curated for unforgettable memories. Based in Himayat Nagar, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
